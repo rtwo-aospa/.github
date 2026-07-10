@@ -13,5 +13,3 @@
 ## goals
 
 - bring AOSPA to Motorola Edge 40 Pro (rtwo)
-- keep the tree clean and upstream-friendly
-- fix device-specific issues before public releases
