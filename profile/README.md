@@ -9,7 +9,3 @@
 
 - 🚧 work in progress
 - device tree under active development
-
-## goals
-
-- bring AOSPA to Motorola Edge 40 Pro (rtwo)
