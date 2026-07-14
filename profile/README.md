@@ -1,11 +1,11 @@
 ## device
 
-- **devices:** Motorola Edge 40 Pro | Edge+ 2023 | Moto X40
-- **codename:** rtwo
-- **soc:** SM8550
-- **kernel:** Linux 5.15
+- **Devices:** Motorola Edge 40 Pro | Edge+ 2023 | Moto X40
+- **Codename:** rtwo
+- **SoC:** SM8550
+- **Kernel:** Linux 5.15
 
 ## status
 
-- 🚧 work in progress
-- device tree under active development
+- 🚧 W.I.P
+- Device tree under active development
