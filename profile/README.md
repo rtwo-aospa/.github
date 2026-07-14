@@ -1,8 +1,8 @@
 ## device
 
-- **device:** Motorola Edge 40 Pro
+- **devices:** Motorola Edge 40 Pro | Edge+ 2023 | Moto X40
 - **codename:** rtwo
-- **soc:** Snapdragon 8 Gen 2 (SM8550)
+- **soc:** SM8550
 - **kernel:** Linux 5.15
 
 ## status
